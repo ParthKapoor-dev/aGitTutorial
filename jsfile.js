@@ -14,3 +14,4 @@ class gitTutorial
 const myFirstTut = gitTutorial("Parth");
 myFirstTut.aboutme();
 console.log("Modified file 1");
+console.log("direct commit");
